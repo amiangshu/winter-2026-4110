@@ -1,0 +1,5 @@
+public cow{
+  public cow(){
+    
+  }
+}
