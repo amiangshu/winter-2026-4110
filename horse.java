@@ -1,0 +1,5 @@
+public horse{
+ public horse(){
+
+ }
+}
