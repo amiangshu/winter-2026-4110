@@ -1,5 +1,5 @@
 # winter-2026-4110: Instructor: Amiangshu Bosu
-Demo repository to show git commands
+Demo repository to show git commands and conflict
 
 
 
