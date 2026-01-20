@@ -2,4 +2,4 @@
 Demo repository to show git commands
 
 
-This is first text to see changes
+This is first text to see changes. Now see conflict but changes on diffrent lines.
