@@ -1,4 +1,4 @@
-# winter-2026-4110: Instructor: Amiangshu Bosu
+# winter-2026-4110: Instructor: Amiangshu Bosu Wayne EDU
 Demo repository to show git commands and conflict
 
 
