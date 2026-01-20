@@ -1,4 +1,5 @@
-# winter-2026-4110: Instructor: Amiangshu Bosu Wayne EDU
+# winter-2026-4110: Instructor: Amiangshu Bosu Email: abosu@wayne.edu
+
 Demo repository to show git commands and conflict
 
 
